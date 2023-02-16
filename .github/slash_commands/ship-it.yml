@@ -1,0 +1,6 @@
+type: webhook
+surfaces:
+  - pr-comment
+title: Ship it
+description: Kick off internal ci-cd processes to ship this code
+trigger-on: ship-it
